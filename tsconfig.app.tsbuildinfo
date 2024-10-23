@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/inventoryproductmodal.tsx","./src/components/inventorystatics.tsx","./src/components/navbar.tsx","./src/components/inventoryproducttable/inventoryproducttable.tsx","./src/components/inventoryproducttable/inventoryproducttabletypes.ts"],"version":"5.6.3"}
